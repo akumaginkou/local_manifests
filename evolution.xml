@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- <project path="device/xiaomi/veux" remote="evo-devices" name="device_xiaomi_veux" revision="udc" /> -->
+  <project path="device/xiaomi/veux" remote="github" name="akumaginkou/device_xiaomi_veux" revision="udc" />
+  
+</manifest>
